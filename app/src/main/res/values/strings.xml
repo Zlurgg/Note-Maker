@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Note App</string>
+    <string name="delete_note">Delete note</string>
+    <string name="order_section_ascending">Ascending</string>
+    <string name="order_section_descending">Descending</string>
+    <string name="save_note">Save note</string>
+    <string name="add_note">Add note</string>
+    <string name="sort">Sort</string>
+    <string name="note_deleted">Note deleted</string>
+    <string name="undo">Undo</string>
+</resources>
